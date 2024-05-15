@@ -21,22 +21,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Regras Essenciais Para um Bom Back-End
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook com o intuito de falar sobre o desenvolvimento web back-end focado em python e seus pontos positivos na área de trabalho
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-Capa e Imagem = Midjourney
+-Títulos e Textos = ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com a ajuda de inteligência artifical, criei prompts de comando que me auxiliassem a criar bons textos e títulos para a criação do meu ebook.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+...
 
 ### Exemplos e Insigths
 
